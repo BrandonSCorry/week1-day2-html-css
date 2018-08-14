@@ -3,7 +3,7 @@
 body {
     background-color: #efeee7;
     font-famiy: "Georgia",Times New Roman,Times,Serif;
-    color: #333333;
+    color: #333;
     margin: 0;
     padding 0;
     line-height: 1.5;
@@ -31,6 +31,7 @@ header h1 {
     color: white;
     font-size: 28px;
     margin:0;
+    padding: 10px;
 }
 
 h2 {font-size: 24px;}
